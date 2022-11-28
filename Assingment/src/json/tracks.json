@@ -1,0 +1,5 @@
+[
+  {"name": "Sample Track One", "length": "track length", "number": 1},
+  {"name": "Sample Track Two", "length": "3:58", "number": 2},
+  {"name": "Sample Track Three", "length": "3:04", "number": 3}
+]
